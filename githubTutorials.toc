@@ -4,4 +4,4 @@
 \beamer@sectionintoc {3}{Setup}{5}{0}{3}
 \beamer@sectionintoc {4}{Code Development}{6}{0}{4}
 \beamer@sectionintoc {5}{README.md}{8}{0}{5}
-\beamer@sectionintoc {6}{README.md}{11}{0}{6}
+\beamer@sectionintoc {6}{GitHub Desktop}{11}{0}{6}

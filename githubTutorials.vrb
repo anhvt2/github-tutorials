@@ -1,5 +1,6 @@
 \frametitle{GitHub Desktop (GUI): \href{https://desktop.github.com/}{https://desktop.github.com/}}
-\begin{figure}[!htbp]
-\includegraphics[width=\textwidth,keepaspectratio]{figs/github-desktop-screenshot-windows.png}
-\caption{GitHub Desktop}
-\end{figure}
+\begin{itemize}
+\item official docs: \href{https://docs.github.com/en/free-pro-team@latest/desktop}{https://docs.github.com/en/free-pro-team@latest/desktop}
+\item install and configure GitHub Desktop: \href{https://docs.github.com/en/free-pro-team@latest/desktop/installing-and-configuring-github-desktop}{https://docs.github.com/en/free-pro-team@latest/desktop/installing-and-configuring-github-desktop}
+\item contributing and collaborating using GitHub Desktop: \href{https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop}{https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop}
+\end{itemize}
