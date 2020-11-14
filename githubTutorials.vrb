@@ -1,0 +1,5 @@
+\frametitle{GitHub Desktop (GUI): \href{https://desktop.github.com/}{https://desktop.github.com/}}
+\begin{figure}[!htbp]
+\includegraphics[width=\textwidth,keepaspectratio]{figs/github-desktop-screenshot-windows.png}
+\caption{GitHub Desktop}
+\end{figure}
