@@ -19,12 +19,18 @@ import numpy as np
 import matploblib.pyplot as plt
 ```
 
-and shell/Bash
+and/or shell/Bash
+
 ```shell
 echo "List current directories in alphabetical order"
 ls -1dv */
 ```
 
+and/or MATLAB
+```matlab
+A = randn(10, 3);
+[Q,R] = qr(A,0); % thin QR decomposition
+```
 
 ## GUI
 
