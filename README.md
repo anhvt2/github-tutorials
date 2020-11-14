@@ -10,8 +10,20 @@ The objective of this GitHub repo is to give an overview of how to use GitHub in
 
 ## README.md
 
-See cheatsheet at [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+See cheatsheet at [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/).
 
+`README.md` allows various syntax highlighting, such as python
+
+```python
+import numpy as np
+import matploblib.pyplot as plt
+```
+
+and shell/Bash
+```shell
+echo "List current directories in alphabetical order"
+ls -1dv */
+```
 
 
 ## GUI
