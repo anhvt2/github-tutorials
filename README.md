@@ -6,7 +6,7 @@ Anh Tran (anhtran@sandia.gov; anh.vt2@gmail.com)
 
 ## Goal
 
-The objective of this GitHub repo is to give an overview of how to use GitHub in a basic manner. Check out introductory slides at [here]/(https://github.com/anhvt2/github-tutorials/blob/main/githubTutorials.pdf)
+The objective of this GitHub repo is to give an overview of how to use GitHub in a basic manner. Check out introductory slides at [here](https://github.com/anhvt2/github-tutorials/blob/main/githubTutorials.pdf)
 
 ## README.md
 
